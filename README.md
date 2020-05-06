@@ -35,10 +35,17 @@ test1
 - README.md 약속
 - repository에 대한 설명이 필요하다.
 - Program에 관련된 소스나 라이브러리등에 대한 설명, 사용법, 버그픽스, 라이센스정보등..
+`1. repository 사용 하려면 초기화 작업이 필요`
+`(1) $git init
+(2) ATOM
+(3) GitHub
+-> 결과는 해당 디렉토리에 .git 디렉토리 생성
+.git Git 관련 환경설정파일이 있음. ex) bash.rc
+.git 디렉토리 경로가 repository의 홈디렉토리가 된다.`
+`gitbash에서 (master)라고 표시된곳이 repository이며, git명령어를 사용 할 수 있다.`
+
 
 
 ### ATOM
 - git-hub에서 만든 편집기
 - git-plus와 같은 패키지를 플러그인 하여 사용가능
-
-`abcd`
