@@ -31,8 +31,8 @@
 - README.md 약속
 - repository에 대한 설명이 필요하다.
 - Program에 관련된 소스나 라이브러리등에 대한 설명, 사용법, 버그픽스, 라이센스정보등..
-`1. repository 사용 하려면 초기화 작업이 필요`
-`(1) $git init`
+- `1. repository 사용 하려면 초기화 작업이 필요`
+- `(1) $git init`
 `(2) ATOM`
 `(3) GitHub`
 `-> 결과는 해당 디렉토리에 .git 디렉토리 생성`
