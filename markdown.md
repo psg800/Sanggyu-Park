@@ -86,8 +86,8 @@ cat abcd
 
 `Code` #Grave Accent ( ` )
 
-![TEXT](IMAGE_FILE_PATH)  
-![TEXT](IMAGE_URL)
+![서버](./62.jpg)  
+![TEXT](https://github.com/dongsampark/temp/blob/master/incompletion/images/20200430/03.png)
 
 https://github.com/psg800/Sanggyu-Park
 [PARK Sanggyu Githup](https://github.com/psg800/Sanggyu-Park)
