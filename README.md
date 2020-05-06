@@ -1,12 +1,8 @@
 # README.md
-Test file
-modify
-test1
-### test title
-- 1 2 3 4 5
-- a b c d e
 
-# Git
+#study
+
+### Git
 
 ### 개발자
 - linux 개발자 = Git 개발자
@@ -36,15 +32,22 @@ test1
 - repository에 대한 설명이 필요하다.
 - Program에 관련된 소스나 라이브러리등에 대한 설명, 사용법, 버그픽스, 라이센스정보등..
 `1. repository 사용 하려면 초기화 작업이 필요`
-`(1) $git init
-(2) ATOM
-(3) GitHub
--> 결과는 해당 디렉토리에 .git 디렉토리 생성
-.git Git 관련 환경설정파일이 있음. ex) bash.rc
-.git 디렉토리 경로가 repository의 홈디렉토리가 된다.`
+`(1) $git init`
+`(2) ATOM`
+`(3) GitHub`
+`-> 결과는 해당 디렉토리에 .git 디렉토리 생성`
+`.git Git 관련 환경설정파일이 있음. ex) bash.rc`
+`.git 디렉토리 경로가 repository의 홈디렉토리가 된다.`
 `gitbash에서 (master)라고 표시된곳이 repository이며, git명령어를 사용 할 수 있다.`
 
+`git add = (unstaged -> staged)`
+`git commit = commit message(변경사항 기재), 쉽게 스냅샷으로 생각 롤백 가능`
+`git push = push(GitHub에 업로드)`
+`FETCH = 가장 최근의 작업으로 싱크 동기화 (작업하는 파일이 존재 할 시)`
+`PULL = download 개념으로 생각, 싱크 동기화 (작업하는 파일이 없을 시)`
 
+`unstaged change = 변경 중`
+`staged change = 변경 완료`
 
 ### ATOM
 - git-hub에서 만든 편집기
